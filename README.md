@@ -1,2 +1,4 @@
 # programy_Java
-Pliki z zajęć Javy
+
+Tutaj wstawię pliki z Javy, które utworzyłam na poprzednich zajęciach
+:coffee: 
