@@ -1,0 +1,19 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+	int a = 10;
+	int b = 11;
+	
+	if (a == b)
+	{ System.out.println("Liczby A i B są równe: " + a + " = " + b);
+	} else if (a >b) 
+	{System.out.println("A jest większe od B: " + a + " > " + b);
+	} else { System.out.println("B jest większe od A: " + b + " > " + a);
+	}
+	}
+	
+	}
+			
+	
+	
